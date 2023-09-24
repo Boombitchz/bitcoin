@@ -4,7 +4,7 @@ pub fn mainnet_seednodes() -> Vec<&'static str> {
 		// Pieter Wuille
 		"seed.bitcoin.sipa.be:8333",
 		// Matt Corallo
-		"dnsseed.bluematt.me:8333",
+	p	"dnsseed.bluematt.me:8333",
 		// Luke Dashjr
 		"dnsseed.bitcoin.dashjr.org:8333",
 		// Christian Decker
